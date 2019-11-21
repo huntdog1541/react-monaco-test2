@@ -1,0 +1,8 @@
+h1, p {
+  font-family: Lato;
+}
+
+.output-container {
+  height: 500px;
+  border: 1px solid black;
+}
